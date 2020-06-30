@@ -8,3 +8,5 @@ This is a password generator with the abilty to create a password with the follo
 - uppercase characters
 - numeric characters
 - special characters
+
+[view the deployed app here](https://kblalock91.github.io/password-generator/)
